@@ -1,2 +1,3 @@
 # PHPLeetCode
-Phper write C for learing
+PHPER write C for learning
+
